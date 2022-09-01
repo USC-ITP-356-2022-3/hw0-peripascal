@@ -1,5 +1,5 @@
-# Peri Pascal
-# 1938396578
+Peri Pascal
+1938396578
 
 
 # :wave: The Basics of GitHub 
